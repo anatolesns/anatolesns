@@ -4,7 +4,10 @@
 🎓 Engineering Student at EPITA Lyon<br>I am currently a 4rth-year student at EPITA Lyon (2nd year of the Engineering Cycle). 
 
 ## 🌐 Socials :
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/anatole-debus) [![email](https://skillicons.dev/icons?i=gmail)](mailto:anatole.debus@gmail.com) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/anatole-debus) [![email](https://skillicons.dev/icons?i=gmail)](mailto:anatole.debus@gmail.com)
+
+[My WebSite](https://www.anatoledebus.com)
+
 
 ## 💻 Tech Stack :
 <div align="center">
