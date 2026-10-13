@@ -6,7 +6,7 @@
 ## 🌐 Socials :
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/anatole-debus) [![email](https://skillicons.dev/icons?i=gmail)](mailto:anatole.debus@gmail.com)
 
-[My WebSite](https://www.anatoledebus.com)
+[anatoledebus.com](https://www.anatoledebus.com)
 
 
 ## 💻 Tech Stack :
